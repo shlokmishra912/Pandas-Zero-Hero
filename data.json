@@ -1,0 +1,87 @@
+[
+  {
+    "ProductID": 201,
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 750,
+    "Stock": 25
+  },
+  {
+    "ProductID": 202,
+    "Name": "Chair",
+    "Category": "Furniture",
+    "Price": 120,
+    "Stock": 80
+  },
+  {
+    "ProductID": 203,
+    "Name": "Book",
+    "Category": "Stationery",
+    "Price": 15,
+    "Stock": 200
+  },
+  {
+    "ProductID": 204,
+    "Name": "Smartphone",
+    "Category": "Electronics",
+    "Price": 500,
+    "Stock": 40
+  },
+  {
+    "ProductID": 201,
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 750,
+    "Stock": 25
+  },
+  {
+    "ProductID": 202,
+    "Name": "Chair",
+    "Category": "Furniture",
+    "Price": 120,
+    "Stock": 80
+  },
+  {
+    "ProductID": 203,
+    "Name": "Book",
+    "Category": "Stationery",
+    "Price": 15,
+    "Stock": 200
+  },
+  {
+    "ProductID": 204,
+    "Name": "Smartphone",
+    "Category": "Electronics",
+    "Price": 500,
+    "Stock": 40
+  },
+
+  {
+    "ProductID": 201,
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 750,
+    "Stock": 25
+  },
+  {
+    "ProductID": 202,
+    "Name": "Chair",
+    "Category": "Furniture",
+    "Price": 120,
+    "Stock": 80
+  },
+  {
+    "ProductID": 203,
+    "Name": "Book",
+    "Category": "Stationery",
+    "Price": 15,
+    "Stock": 200
+  },
+  {
+    "ProductID": 204,
+    "Name": "Smartphone",
+    "Category": "Electronics",
+    "Price": 500,
+    "Stock": 40
+  }
+]

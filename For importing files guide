@@ -1,0 +1,16 @@
+import pandas as pd
+
+data = {"Name" :["Rahul", 'Soham', 'Jack'],
+        "Age" :[10,20,30],
+        "Live": ['Pune',"Mumbai",'Gujarat']} #or you can enter the path
+
+
+
+df = pd.DataFrame(data) #We want data in frame
+print(df)
+
+df.to_excel("output.xlsx", index=False) 
+"""df.to_csv(name_extension , index want or not)
+
+(pip install openpyxl) for excel, to save""" 
+
