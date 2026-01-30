@@ -5,4 +5,6 @@ Pandas Zero‑Hero is your fast‑track journey from absolute beginner to confid
 Pandas Zero‑Hero is a structured learning resource designed to take you from beginner to advanced in two clear stages:
 - Chapter 1: Basics → Learn the foundations of Pandas step by step.
 - Chapter 2: Advanced → Dive into powerful techniques for real‑world data wrangling.
-Whether you’re cleaning messy CSVs, aggregating millions of rows, or preparing insights for visualization, this guide equips you with practical skills and cheat‑sheet clarity.
+Whether you’re cleaning messy CSVs, aggregating millions of rows, or preparing insights for visualization, this guide equips you with practical skills and cheat‑sheet clarity.4
+
+There are  (5 .py) files it is sequence wise and ,.csv. ,.json for working and practice
